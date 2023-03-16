@@ -7,11 +7,12 @@
 `pip install gTTS`, `pip install FFmpeg`, `pip install discord.py`, `pip install openai`
 
 # Setup instructions
-
-1. Get your OpenAI API key from their website and paste it on the `openai.api_key`'s value.
-2. Get your Discord Bot Token from the Discord Developer Portal and post it on the `os.environ['BOT KEY']`'s value.
-3. Install your Dependencies
-4. `py main.py`
+1. MAKE SURE PYTHON IS INSTALLED ON YOUR LOCAL MACHINE
+2. Get your OpenAI API key from their website and paste it on the `openai.api_key`'s value.
+3. Get your Discord Bot Token from the Discord Developer Portal and post it on the `os.environ['BOT KEY']`'s value.
+4. Install your Dependencies
+5. Open an IDE(VsCode) or `cmd` and `cd <directory where you downloaded file>`
+5. `py main.py`
 
 # Features
 1. Beelzebul-AI sends messages exactly like the actual person.
